@@ -2,7 +2,7 @@ package studentlist;
 
 /**
  *
- * @author paulbonenfant
+ * @author sedra
  */
 public class Student {
 
